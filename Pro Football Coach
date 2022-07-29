@@ -26,27 +26,27 @@ END_PLAYERS
 Cleveland Browns, CLE
 CB,Denzel Ward,22,2018,87,87,87,87,87,87,1.6,3
 CB,Greg Newsome II,27,2015,82,82,82,82,82,82,3.5,4
-CB,Greedy Williams,27,2015,72,76,75,75,75,73,3.3,3
-S,Karl Joseph,25,2016,87,85,84,83,82,83,2.5,4
-DL,Myles Garrett,23,2017,96,93,94,97,96,98,7.6,2
-DL,Chad Thomas,23,2018,71,58,77,84,79,58,1.0,4
-DL,Jordan Elliot,21,2020,77,75,75,74,76,75,1.0,3
-DL,Adrian Clayborn,30,2011,80,82,77,78,78,77,2.8,2
-K,Austin Seibert,24,2018,74,75,73,71,74,76,0.5,2
-LB,Willie Harvey,23,2018,78,72,73,73,74,75,0.7,4
-LB,B.J. Goodson,25,2016,75,74,72,70,70,70,2.4,4
-LB,Jacob Phillips,21,2020,78,75,75,76,74,75,1.0,3
-OL,Kendall Lamm,23,2017,61,65,74,75,69,67,2.1,6
-OL,Joel Bitonio,27,2014,87,86,86,86,84,85,8.5,6
-OL,Wyatt Teller,24,2018,79,79,76,77,75,76,0.7,4
-OL,Jedrick Wills,21,2020,88,83,84,84,85,84,2.0,4
-OL,J.C. Tretter,27,2013,82,83,84,80,80,81,10.6,3
-QB,Deshaun Watson,24,2018,85,78,83,90,88,87,23.1,5
-RB,Nick Chubb,23,2018,84,86,89,92,86,88,1.8,4
-RB,Andy Janovich,25,2016,76,76,84,79,79,53,0.6,4
-WR,Amari Cooper,24,2015,81,88,86,85,84,84,14.7,2
-WR,Harrison Bryant,21,2020,78,73,74,71,74,74,1.0,3
-WR,David Bell,22,2022,68,69,79,75,73,75,0.8,1
+CB,Greedy Williams,27,2015,74,74,74,74,74,74,3.3,3
+S,John Johnson III,25,2016,83,83,83,83,83,83,2.5,4
+DL,Myles Garrett,23,2017,99,99,99,99,99,99,7.6,2
+DL,Jadeveon Clowney,23,2018,85,85,85,85,85,85,1.0,4
+DL,Chase Winovich,21,2020,79,79,79,79,79,79,1.0,3
+DL,Stephen Weatherly,30,2011,72,72,72,72,72,72,2.8,2
+K,Cade York,24,2018,67,67,67,67,67,67,0.5,2
+LB,Anthony Walker Jr.,23,2018,78,72,73,73,74,75,0.7,4
+LB,Jeremiah Owusu,25,2016,76,76,76,76,76,76,2.4,4
+LB,Sione Takitaki,21,2020,72,72,72,72,72,72,1.0,3
+OL,Wyatt Teller,23,2017,90,90,90,90,90,90,2.1,6
+OL,Joel Bitonio,27,2014,86,86,86,86,86,86,8.5,6
+OL,Jedrick Wills,24,2018,81,81,81,81,81,81,0.7,4
+OL,Jack Conklin,21,2020,79,79,79,79,79,79,2.0,4
+OL,Ethan Pocic,27,2013,75,75,75,75,75,75,10.6,3
+QB,Jacoby Brissett,24,2018,71,71,71,71,71,71,23.1,5
+RB,Nick Chubb,23,2018,96,96,96,96,96,96,1.8,4
+RB,Kareem Hunt,25,2016,84,84,84,84,84,53,0.6,4
+WR,Amari Cooper,24,2015,94,94,94,94,94,94,14.7,2
+WR,Jakeem Grant,21,2020,76,76,76,76,76,76,1.0,3
+WR,Donnovan Peoples-Jones,22,2022,71,71,71,71,71,71,0.8,1
 END_PLAYERS
 Cincinnati Bengals, CIN
 CB,Jalyn Armour-Davis,23,2022,72,68,70,68,70,72,0.8,4
