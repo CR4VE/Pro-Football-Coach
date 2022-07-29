@@ -1,27 +1,27 @@
 Baltimore Ravens, BAL
-CB,Jalyn Armour-Davis,23,2022,72,68,70,68,70,72,0.8,4
-CB,Inman Marshall,24,2019,74,58,72,76,74,69,0.6,3
-CB,Marcus Peters,25,2015,74,88,87,87,82,86,5.0,4
-S,Chuck Clark,24,2017,82,79,78,80,79,81,5.1,4
-DL,Aaron Adeoye,22,2018,68,68,64,72,64,64,1.0,2
-DL,Jihad Ward,25,2018,67,50,71,78,73,50,0.6,4
-DL,Justin Madubuike,21,2020,78,79,77,76,75,76,1.0,4
-DL,Broderick Washington Jr,21,2020,72,70,68,68,70,69,0.7,3
-LB,Jaylon Ferguson,24,2019,77,75,76,76,75,77,0.9,1
-LB,Otaro Alaka,23,2019,69,73,74,72,70,68,0.5,2
-LB,Michael Onuoha,24,2017,72,62,67,64,63,70,1.0,2
-OL,Daniel Faalele,23,2022,70,69,76,74,70,71,1.0,2
-OL,Orlando Brown,23,2018,89,83,84,84,83,83,0.8,5
-OL,Bradley Bozeman,25,2018,82,75,78,78,77,77,3.6,4
-OL,D.J Fluker,29,2013,80,79,80,82,79,80,0.7,3
-OL,Tyre Phillips,21,2020,76,75,75,76,75,72,1.0,3
-K,Sam Koch,36,2006,84,72,85,88,85,67,2.3,5
-QB,Trace McSorley,24,2019,60,69,75,62,60,73,1.0,3
-RB,Justice Hill,22,2019,75,75,76,75,76,76,0.8,2
-RB,J.K. Dobbins,21,2020,84,80,78,83,80,82,1.0,4
-WR,Mark Andrews,24,2018,93,85,85,87,87,86,0.9,4
-WR,Charles Scarff,23,2018,68,70,69,70,72,69,0.5,2
-WR,Nick Boyle,27,2015,84,77,82,82,78,78,6.0,3
+CB,Marlon Humphrey,23,2022,93,93,93,93,93,93,0.8,4
+CB,Kyle Fuller,24,2019,79,79,79,79,79,79,0.6,3
+CB,Marcus Peters,25,2015,86,86,86,86,86,86,5.0,4
+S,Marcus Williams,24,2017,86,86,86,86,86,86,5.1,4
+DL,Michael Pierce,22,2018,89,89,89,89,89,89,1.0,2
+DL,Calais Campbell,25,2018,87,87,87,87,87,87,0.6,4
+DL,Brent Urban,21,2020,77,77,77,77,77,77,1.0,4
+DL,Justin Madubuike,21,2020,74,74,74,74,74,74,0.7,3
+LB,Odafe Oweh,24,2019,81,81,81,81,81,81,0.9,1
+LB,Justin Houston,23,2019,80,80,80,80,80,80,0.5,2
+LB,Patrick Queen,24,2017,78,78,78,78,78,78,1.0,2
+OL,Ronnie Stanley,23,2022,93,93,93,93,93,93,1.0,2
+OL,Kevin Zeitler,23,2018,82,82,82,82,82,82,0.8,5
+OL,Ju'Wuan James,25,2018,80,80,80,80,80,80,3.6,4
+OL,Patrick Merkari,29,2013,75,75,75,75,75,75,0.7,3
+OL,Morgan Moses,21,2020,71,71,71,71,71,71,1.0,3
+K,Justin Tucker,36,2006,90,90,90,90,90,90,2.3,5
+QB,Lamar Jackson,24,2019,92,92,92,92,92,92,1.0,3
+RB,Mike Davis,22,2019,78,78,78,78,78,78,0.8,2
+RB,J.K. Dobbins,21,2020,83,83,83,83,83,83,1.0,4
+WR,Mark Andrews,24,2018,93,93,93,93,93,93,0.9,4
+WR,Rashod Bateman,23,2018,75,75,75,75,75,75,0.5,2
+WR,Nick Boyle,27,2015,74,74,74,74,74,74,6.0,3
 END_PLAYERS
 Cleveland Browns, CLE
 CB,Greedy Williams,22,2018,87,79,80,79,80,78,1.6,3
