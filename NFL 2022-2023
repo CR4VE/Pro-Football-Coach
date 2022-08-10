@@ -17,102 +17,784 @@ OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
 OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
 K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
 QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
-RB,Justice Hill,20,2019,75,75,76,75,76,76,1.0,4
-RB,J.K. Dobbins,20,2020,84,80,78,83,80,82,1.0,4
-WR,Mark Andrews,20,2018,93,85,85,87,87,86,1.0,4
-WR,Charles Scarff,20,2018,68,70,69,70,72,69,1.0,4
-WR,Nick Boyle,20,2015,84,77,82,82,78,78,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Cleveland Browns, CLE
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Cincinnati Bengals, CIN
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Pittsburgh Steelers, PIT
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Buffalo Bills, BUF
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 New England Patriots, NE
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Miami Dolphins, MIA
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 New York Jets, NYJ
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Tennessee Titans, TEN
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Jacksonville Jaguars, JAX
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Houston Texans, HOU
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Indianapolis Colts, IND
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Kansas City Chiefs, KC
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Denver Broncos, DEN
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Los Angeles Chargers, LAC
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Las Vegas Raiders, LV
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Chicago Bears, CHI
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Green Bay Packers, GB
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Minnesota Vikings, MIN
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Detroit Lions, DET
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Washington Commanders, WAS
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Dallas Cowboys, DAL
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Philadelphia Eagles, PHI
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 New York Giants, NYG
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 New Orleans Saints, NO
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Carolina Panthers, CAR
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Tampa Bay Buccaneers, TB
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Atlanta Falcons, ATL
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Los Angeles Rams, LAR
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Seattle Seahawks, SEA
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 San Francisco 49ers, SF
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
 Arizona Cardinals, ARZ
-
+CB,Jalyn Armour-Davis,20,2022,70,70,70,70,70,70,1.0,4
+CB,Inman Marshall,20,2019,70,70,70,70,70,70,1.0,4
+CB,Marcus Peters,20,2015,70,70,70,70,70,70,1.0,4
+S,Chuck Clark,20,2017,82,70,70,70,70,70,1.0,4
+DL,Aaron Adeoye,20,2018,70,70,70,70,70,70,1.0,4
+DL,Jihad Ward,20,2018,70,70,70,70,70,70,1.0,4
+DL,Justin Madubuike,20,2020,70,70,70,70,70,70,1.0,4
+DL,Broderick Washington Jr,20,2020,70,70,70,70,70,70,1.0,4
+LB,Chris Board,20,2018,70,70,70,70,70,70,1.0,4
+LB,David Ojabo,20,2022,70,70,70,70,70,70,1.0,4
+LB,Tyus Bowser,20,2017,70,70,70,70,70,70,1.0,4
+OL,Daniel Faalele,20,2022,70,70,70,70,70,70,1.0,4
+OL,Orlando Brown,20,2018,70,70,70,70,70,70,1.0,4
+OL,Bradley Bozeman,20,2018,70,70,70,70,70,70,1.0,4
+OL,D.J Fluker,20,2013,80,70,70,70,70,70,1.0,4
+OL,Tyre Phillips,20,2020,70,70,70,70,70,70,1.0,4
+K,Justin Tucker,20,2012,70,70,70,70,70,70,1.0,4
+QB,Trace McSorley,20,2019,70,70,70,70,70,70,1.0,4
+RB,Justice Hill,20,2019,70,70,70,70,70,70,1.0,4
+RB,J.K. Dobbins,20,2020,70,70,70,70,70,70,1.0,4
+WR,Mark Andrews,20,2018,70,70,70,70,70,70,1.0,4
+WR,Charles Scarff,20,2018,70,70,70,70,70,70,1.0,4
+WR,Nick Boyle,20,2015,70,70,70,70,70,70,1.0,4
 END_PLAYERS
