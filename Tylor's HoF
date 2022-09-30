@@ -1,8 +1,10 @@
 Miami Dolphins, MIA
+QB,Dan Marino,20,2016,118,118,118,118,118,118,1.0,4
 END_PLAYERS
 Buffalo Bills, BUF
 END_PLAYERS
 New England Patriots, NE
+QB,Tom Brady,20,2016,125,125,125,125,125,125,1.0,4
 END_PLAYERS
 New York Jets, NYJ
 END_PLAYERS
@@ -13,6 +15,7 @@ END_PLAYERS
 Cincinnati Bengals, CIN
 END_PLAYERS
 Pittsburgh Steelers, PIT
+QB,Ben Roethlisberger,20,2016,117,117,117,117,117,117,1.0,4
 END_PLAYERS
 Jacksonville Jaguars, JAC
 END_PLAYERS
@@ -25,8 +28,10 @@ END_PLAYERS
 Kansas City Cheifs, KC
 END_PLAYERS
 Denver Broncos, DEN
+QB,John Elway,20,2016,117,117,117,117,117,117,1.0,4
 END_PLAYERS
 Los Angeles Chargers, LAC
+QB,Phillip Rivers,20,2016,118,118,118,118,118,118,1.0,4
 END_PLAYERS
 Las Vegas Raiders, LV
 END_PLAYERS
@@ -39,8 +44,11 @@ END_PLAYERS
 Washington Commanders, WAS
 END_PLAYERS
 Minnesota Vikings, MIN
+QB,Fran Tarkenton,20,2016,119,119,119,119,119,119,1.0,4
 END_PLAYERS
 Green Bay Packers, GB
+QB,Brett Favre,20,2016,121,121,121,121,121,121,1.0,4
+QB,Aaron Rodgers,20,2016,118,118,118,118,118,118,1.0,4
 END_PLAYERS
 Chicago Bears, CHI
 END_PLAYERS
@@ -51,8 +59,10 @@ END_PLAYERS
 Carolina Panthers, CAR
 END_PLAYERS
 New Orleans Saints, NO
+QB,Drew Brees,20,2016,122,122,122,122,122,122,1.0,4
 END_PLAYERS
 Atlanta Falcons, ATL
+QB,Matt Ryan,20,2016,117,117,117,117,117,117,1.0,4
 END_PLAYERS
 Los Angeles Rams, LAR
 END_PLAYERS
