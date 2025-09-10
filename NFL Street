@@ -227,6 +227,7 @@ S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+DL,Casey Hampton,20,2022,99,98,88,88,88,88,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -237,7 +238,9 @@ DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+LB,Kendrell Bell,20,2022,88,93,95,95,95,95,1.0,1
+LB,Jason Gildon,20,2022,92,89,94,94,94,94,1.0,1
+LB,Joey Porter,20,2022,98,94,86,86,86,86,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -245,10 +248,7 @@ LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+OL,Alan Faneca,20,2022,94,91,98,98,98,98,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -265,16 +265,16 @@ OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+QB,Tommy Maddox,20,2022,79,78,81,81,81,81,1.0,1
 QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+RB,Jerome Bettis,20,2022,93,99,89,89,89,89,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+WR,Plaxico Burress,20,2022,86,80,90,90,90,90,1.0,1
+WR,Antwaan Randle El,20,2022,100,88,85,85,85,85,1.0,1
+WR,Hines Ward,20,2022,89,94,96,96,96,96,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -575,7 +575,7 @@ WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 END_PLAYERS
 Tennessee Titans, TEN
-CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+CB,Samari Rolle,20,2022,78,89,83,83,83,83,1.0,1
 CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -587,6 +587,7 @@ S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+DL,Jevon Kearse,20,2022,98,93,95,95,95,95,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -597,8 +598,7 @@ DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+LB,Keith Bullock,20,2022,85,83,88,88,88,88,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -625,15 +625,15 @@ OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+QB,Steve McNair,20,2022,98,95,96,96,96,96,1.0,1
 QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+RB,Eddie George,20,2022,83,97,89,89,89,89,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+WR,Derrick Mason,20,2022,78,83,82,82,82,82,1.0,1
+WR,Frank Wycheck,20,2022,77,78,79,79,79,79,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -719,7 +719,7 @@ WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 END_PLAYERS
 Houston Texans, HOU
-CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+CB,Aaron Glenn,20,2022,80,82,80,80,80,80,1.0,1
 CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -752,7 +752,7 @@ LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+OL,Zack Wiegert,20,2022,80,89,84,84,84,84,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -769,14 +769,14 @@ OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+QB,David Carr,20,2022,69,79,78,78,78,78,1.0,1
+QB,Stacey Mack,20,2022,74,79,77,77,77,77,1.0,1
 QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+WR,Andre Johnson,20,2022,94,90,92,92,92,92,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -1307,6 +1307,7 @@ S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+DL,Chris Hovan,20,2022,79,86,80,80,80,80,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -1317,7 +1318,7 @@ DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+LB,Greg Biekert,20,2022,78,69,81,81,81,81,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -1327,8 +1328,7 @@ LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+OL,Matt Birk,20,2022,89,87,91,91,91,91,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -1345,14 +1345,14 @@ OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+QB,Daunte Culpepper,20,2022,100,99,98,98,98,98,1.0,1
 QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+RB,Michael Bennett,20,2022,88,83,90,90,90,90,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+WR,Randy Moss,20,2022,98,88,99,99,99,99,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -2087,7 +2087,7 @@ WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 END_PLAYERS
 Seattle Seahawks, SEA
-CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+CB,Shaun Springs,20,2022,79,84,83,83,83,83,1.0,1
 CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 CB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -2099,6 +2099,8 @@ S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 S,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+DL,Norman Hand,20,2022,76,97,81,81,81,81,1.0,1
+DL,John Randle,20,2022,80,78,86,86,86,86,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -2108,8 +2110,7 @@ DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-DL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+LB,Anthony Simmons,20,2022,85,80,84,84,84,84,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -2119,8 +2120,7 @@ LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-LB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+OL,Walter Jones,20,2022,94,89,99,99,99,99,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
@@ -2137,14 +2137,14 @@ OL,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 K,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+QB,Trent Dilfer,20,2022,78,80,79,79,79,79,1.0,1
+QB,Matt Hasselbeck,20,2022,69,85,77,77,77,77,1.0,1
 QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-QB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+RB,Shaun Alexander,20,2022,96,96,97,97,97,97,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-RB,Default Player,35,2022,65,65,65,65,65,65,1.0,1
-WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
+WR,Koren Robinson,20,2022,83,79,88,88,88,88,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
 WR,Default Player,35,2022,65,65,65,65,65,65,1.0,1
